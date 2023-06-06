@@ -17,4 +17,4 @@ COMMAND TO RUN A TEST FILE
 --------------------------
 
 pytest -v -s --capture=sys --html=C:\Users\test_result.html
-pytest -v -s --capture=sys --html=C:\Users\sbasi\Automation
+pytest -v -s --capture=sys --html=C:\Users\sbasi\Automation\AT_Codes\AT-Project-3_Swag_Labs\reports\test_report.html
