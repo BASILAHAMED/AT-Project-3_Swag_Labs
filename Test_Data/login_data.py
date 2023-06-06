@@ -2,15 +2,19 @@
 
 # Python Class for Username and Password
 class LoginData:
-    username = "Admin"
-    password = "admin123"
+    username1 = "standard_user"
+    username2 = "locked_out_user"
+    username3 = "problem_user"
+    username4 = "performance_glitch_user"
+
+    password = "secret_sauce"
     invalid_password = "password"
 
 
 # Python Class for Selenium Selectors
 class ElementLocators:
-    xpath_username = '//input[@name="username"]'
-    xpath_password = '//input[@type="password"]'
-    xpath_login = '//button[@type="submit"]'
-    xpath_dashboard = '//div[1]/span/h6'
-    xpath_invalid_login = '//div[1]/p'
+    xpath_username = '//input[@id="user-name"]'
+    xpath_password = '//input[@id="password"]'
+    xpath_login = '//input[@id="login-button"]'
+    xpath_product = '//span[@class="title"]'
+    xpath_invalid_login = '//div[@id="login_button_container"]/div/form/div[3]/h3'

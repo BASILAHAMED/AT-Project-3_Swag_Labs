@@ -17,3 +17,4 @@ COMMAND TO RUN A TEST FILE
 --------------------------
 
 pytest -v -s --capture=sys --html=C:\Users\test_result.html
+pytest -v -s --capture=sys --html=C:\Users\sbasi\Automation
