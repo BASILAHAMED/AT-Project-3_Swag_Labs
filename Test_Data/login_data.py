@@ -18,3 +18,5 @@ class ElementLocators:
     xpath_login = '//input[@id="login-button"]'
     xpath_product = '//span[@class="title"]'
     xpath_invalid_login = '//div[@id="login_button_container"]/div/form/div[3]/h3'
+    xpath_menu = '//button[@id="react-burger-menu-btn"]'
+    xpath_logout = '//a[@id="logout_sidebar_link"]'
