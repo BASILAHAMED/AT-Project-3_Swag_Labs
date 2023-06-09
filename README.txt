@@ -3,8 +3,8 @@ System Description
 Swag Labs - ECommerce Site Testing
 
 Test Cases include
-1.Test Cases dealing with login - 05 (04 Valid and 01 Invalid Login)
-2.Test Cases dealing with Home - 03
+1.Test Cases dealing with login and logout
+2.Test Cases dealing with testing cart, adding product to cart
 Total 
 
 Folder Description
