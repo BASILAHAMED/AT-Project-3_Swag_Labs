@@ -1,6 +1,7 @@
 AT Project 3
 System Description
-Swag Labs - ECommerce Site Testing
+
+Sauce Labs provides a demo website called "Swag Labs" specifically designed for testing automation. It offers different features and scenarios to test, such as adding items to a cart, placing orders, and more. You can access it at https://www.saucedemo.com/.
 
 Test Cases include
 1.Test Cases dealing with login and logout
