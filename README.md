@@ -17,6 +17,6 @@ Sauce Labs provides a demo website called "Swag Labs" specifically designed for 
 ### Command Execution
 ```
 pytest -v -s --capture=sys --html=C:\Users\test_result.html
-pytest -v -s --capture=sys --html=C:\Users\sbasi\Automation\AT_Codes\AT-Project-3_Swag_Labs\reports\test_report.html
-pytest -v -s --capture=sys --html=C:\Users\sbasi\Automation\AT_Codes\Projects_Submitted_GUVI\Project03\AT-Project-3_Swag_Labs\reports\test_report.html
+pytest -v -s --capture=sys --html=C:\Users\AT-Project-3_Swag_Labs\reports\test_report.html
+pytest -v -s --capture=sys --html=C:\Users\AT-Project-3_Swag_Labs\reports\test_report.html
 ```
