@@ -8,7 +8,7 @@ Sauce Labs provides a demo website called "Swag Labs" specifically designed for 
 2.Test Cases dealing with testing cart, adding product to cart
 ```
 
-### Repositories
+### Folder Structure
 ```
 1.Test_Codes # It consists of Test Files (i.e. test_login, test_pim)
 2.Test_Data # It consists of Test Data's (i.e. username, password, XPATH, ID, etc.,)
